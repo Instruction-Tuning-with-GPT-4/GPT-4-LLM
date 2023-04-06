@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Instruction Tuning with GPT-4
 
 Baolin Peng*, Chunyuan Li*, Pengcheng He, Michel Galley, Jianfeng Gao (*Equal Contribution)
