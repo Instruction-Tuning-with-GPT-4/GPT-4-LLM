@@ -1,9 +1,11 @@
 # Instruction Tuning with GPT-4
 
-Baolin Peng*, Chunyuan Li*, Pengcheng He, Michel Galley, Jianfeng Gao (*Equal Contribution)
+Baolin Peng*, Chunyuan Li*, Pengcheng He*, Michel Galley, Jianfeng Gao (*Equal Contribution)
 
 [[Project Page](https://instruction-tuning-with-gpt-4.github.io/)] [[Paper](https://arxiv.org/abs/)] 
-
+<p align="center">
+    <img src="https://instruction-tuning-with-gpt-4.github.io/images/gpt4llama_logo.png" width="50%">
+</p>
 
 
 [![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)](https://github.com/tatsu-lab/stanford_alpaca/blob/main/LICENSE)
