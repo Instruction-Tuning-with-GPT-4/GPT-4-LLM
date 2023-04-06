@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Instruction Tuning with GPT-4
 
 Baolin Peng*, Chunyuan Li*, Pengcheng He, Michel Galley, Jianfeng Gao (*Equal Contribution)
@@ -83,3 +84,4 @@ To evaluate the results, we highly recommend users refer to [Vicuna](https://vic
     year={2023}
 }
 ```
+
