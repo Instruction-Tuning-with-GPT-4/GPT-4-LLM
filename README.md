@@ -111,4 +111,7 @@ To evaluate the results, we highly recommend users refer to [Vicuna](https://vic
 }
 ```
 
+## Acknowledgement
+This repo benefits from [LLaMA](https://github.com/facebookresearch/llama), [Alpaca](https://github.com/tatsu-lab/stanford_alpaca), and [Vicuna](https://github.com/lm-sys/FastChat). Thanks for their wonderful works.
+
 
