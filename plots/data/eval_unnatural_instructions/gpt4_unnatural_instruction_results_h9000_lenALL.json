@@ -1,0 +1,26 @@
+[
+  {
+    "Length": "ALL",
+    "NumInstance": 9000,
+    "Model": "Alpaca-GPT4",
+    "rouge1": 0.36127610805079613,
+    "rouge2": 0.13064150159981158,
+    "rougeL": 0.34467723453714916
+  },
+  {
+    "Length": "ALL",
+    "NumInstance": 9000,
+    "Model": "Alpaca",
+    "rouge1": 0.3985353941113293,
+    "rouge2": 0.11248133637338298,
+    "rougeL": 0.38599969448111626
+  },
+  {
+    "Length": "ALL",
+    "NumInstance": 9000,
+    "Model": "GPT4",
+    "rouge1": 0.38482711338941444,
+    "rouge2": 0.1374805774797211,
+    "rougeL": 0.3697349140194752
+  }
+]
