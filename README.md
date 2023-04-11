@@ -118,11 +118,11 @@ Select the [`main_plots.ipynb`](./plots/main_plots.ipynb) notebook and execute t
 
 ## Citation
 ```
-@article{peng2023gpt4llm,
-    title={Instruction Tuning with GPT-4},
-    author={Baolin Peng, Chunyuan Li, Pengcheng He, Michel Galley, Jianfeng Gao},
-    journal={arXiv preprint arXiv:2304.03277},
-    year={2023}
+@article{peng2023instruction,
+  title={Instruction Tuning with GPT-4},
+  author={Peng, Baolin and Li, Chunyuan and He, Pengcheng and Galley, Michel and Gao, Jianfeng},
+  journal={arXiv preprint arXiv:2304.03277},
+  year={2023}
 }
 ```
 
