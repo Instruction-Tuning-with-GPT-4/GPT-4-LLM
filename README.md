@@ -128,6 +128,12 @@ Select the [`main_plots.ipynb`](./plots/main_plots.ipynb) notebook and execute t
 }
 ```
 
+## Related Projects
+
+- [LLaVA: Visual Instruction Tuning with GPT-4](https://llava-vl.github.io/)
+- [LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day](https://github.com/microsoft/LLaVA-Med)
+- [Otter: A Multi-Modal Model with In-Context Instruction Tuning](https://github.com/Luodian/Otter)
+
 ## Acknowledgement
 This repo benefits from [LLaMA](https://github.com/facebookresearch/llama), [Alpaca](https://github.com/tatsu-lab/stanford_alpaca), and [Vicuna](https://github.com/lm-sys/FastChat). Thanks for their wonderful works.
 
